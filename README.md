@@ -4,6 +4,8 @@ An end-to-end analysis of the [Brazilian E-Commerce Public Dataset by Olist](htt
 
 **Business question:** Does delivery performance affect customer satisfaction, and where is that risk concentrated?
 
+![Dashboard preview](dashboard/dashboard_preview.png)
+
 ## Key findings
 
 | Metric | Value |
